@@ -9,7 +9,7 @@ document.querySelectorAll("button")[i].addEventListener("click", function handle
 );
 }
 
-
+var Dil = "JAI MAHAKLALLLLLLLLL";
 document.addEventListener("keypress", function(event){
     soundPlay(event.key);
     buttonAnimation(event.key);
