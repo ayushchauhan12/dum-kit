@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  color: black;
   background-color: #283149;
 }
 
@@ -19,6 +20,7 @@ footer {
 .w {
  background-image: url('images/crash.png');
  background-color: #DA0463;
+  color: green;
 }
 
 .a {
