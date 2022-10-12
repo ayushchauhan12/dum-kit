@@ -54,7 +54,7 @@ footer {
 
 .game-over {
   background-color: red;
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .pressed {
@@ -71,7 +71,7 @@ footer {
   border: 10px solid #404B69;
   font-size: 4rem;
   font-family: 'Arvo', cursive;
-  line-height: 3;
+  line-height: 8;
   font-weight: 900;
   color: #DA0463;
   text-shadow: 3px 0 #DBEDF3;
