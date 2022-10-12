@@ -8,7 +8,7 @@ document.querySelectorAll("button")[i].addEventListener("click", function handle
 }   
 );
 }
-
+var DILL="JAI SHREE RAM";
 var Dil = "JAI MAHAKLALLLLLLLLL";
 document.addEventListener("keypress", function(event){
     soundPlay(event.key);
